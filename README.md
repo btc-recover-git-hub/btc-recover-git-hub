@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  Friday 13 June 2025
+
+
+Update:  16.06.2025 05:45:42 Updated environment setup documentation
